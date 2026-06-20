@@ -1,0 +1,21 @@
+{
+  "name": "javascript-",
+  "version": "1.0.0",
+  "description": "code repository for learning javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satyammishra256/Javascript-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/satyammishra256/Javascript-/issues"
+  },
+  "homepage": "https://github.com/satyammishra256/Javascript-#readme"
+}
